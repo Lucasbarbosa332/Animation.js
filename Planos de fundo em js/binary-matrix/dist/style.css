@@ -1,0 +1,5 @@
+/*reset basico*/
+* {margin: 0; padding: 0;}
+/*adiciona a cor preta ao plano de fundo*/
+body {background: black;}
+canvas {display: block;}
